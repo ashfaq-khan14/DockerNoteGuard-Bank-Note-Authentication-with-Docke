@@ -1,4 +1,4 @@
-# Bank-Note-authentication-using-Docker-
+ Bank-Note-authentication-using-Docker-
 <h2 align="left">Hi 👋! Mohd Ashfaq here, a Data Scientist passionate about transforming data into impactful solutions. I've pioneered Gesture Recognition for seamless human-computer interaction and crafted Recommendation Systems for social media platforms. Committed to building products that contribute to societal welfare. Let's innovate with data! 
 
 
@@ -55,7 +55,6 @@
 
 ###
 
-Sure, here's a README for a project called "Bake Note Authentic":
 
 ---
 
@@ -109,8 +108,6 @@ Bake Note Authentic is a project aimed at verifying the authenticity of baked go
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Replace yourusername, bake-note-authentic, and LICENSE with your actual details. Also, provide a requirements.txt file if there are specific dependencies for your project.
 
 <br clear="both">
 
