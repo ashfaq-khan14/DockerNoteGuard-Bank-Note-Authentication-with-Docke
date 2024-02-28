@@ -61,7 +61,7 @@ Sure, here's a README for a project called "Bake Note Authentic":
 
 # Bake Note Authentic
 
-<img ![WhatsApp Image 2024-02-28 at 20 32 20_65c6227f](https://github.com/ashfaq-khan14/Bank-Note-authentication-using-Docker-/assets/120010803/d656989f-0532-46cc-9b8c-84b090bc6e3d)
+  <img ![WhatsApp Image 2024-02-28 at 20 32 20_65c6227f](https://github.com/ashfaq-khan14/Bank-Note-authentication-using-Docker-/assets/120010803/d656989f-0532-46cc-9b8c-84b090bc6e3d)
 
 
 ## Overview
