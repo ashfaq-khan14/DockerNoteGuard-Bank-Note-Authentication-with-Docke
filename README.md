@@ -74,7 +74,7 @@ Bake Note Authentic is a project aimed at verifying the authenticity of baked go
 - *Transparency*: Provide transparency in the baking process, including ingredients used, production methods, and delivery information.
 - *Consumer Confidence*: Build consumer confidence by offering a transparent and trustworthy system for verifying the authenticity of baked products.
   
-![WhatsApp Image 2024-02-28 at 20 33 48_62120bc9](https://github.com/ashfaq-khan14/Bank-Note-authentication-using-Docker-/assets/120010803/82d22e08-9e4e-4c3d-a780-173d74a9d889) 
+  -    ![WhatsApp Image 2024-02-28 at 20 33 48_62120bc9](https://github.com/ashfaq-khan14/Bank-Note-authentication-using-Docker-/assets/120010803/82d22e08-9e4e-4c3d-a780-173d74a9d889) 
 
 ## Technologies Used
 - *Blockchain*: Implement blockchain technology for creating and managing product records.
